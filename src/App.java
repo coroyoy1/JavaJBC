@@ -8,6 +8,7 @@ public class App {
     private static App app = new App();
     private static InputOfUser inputOfUser = new InputOfUser();
 
+    //Execute Code
     public static void main(String[] args) throws Exception {
         app.selection();
     }
