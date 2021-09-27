@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class App {
 
+    //Iteration with different classes
     private static Scanner scan = new Scanner(System.in);
     private static int selectNumber = 0;
     private static App app = new App();
